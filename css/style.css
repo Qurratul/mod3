@@ -1,0 +1,25 @@
+*{box-sizing:border-box;}
+
+#container-fluid{
+	padding: 15px;
+}
+.inside{
+		background-color: #e6e6e6;
+		padding: 10px;
+
+}
+#Chicken, #Beef, #Sushi{
+
+
+	margin:0px 0px 15px 0px;
+	float: left;
+}
+
+#nav-list li {
+	background-color: #a7a7a7;
+}
+
+#nav-list a:hover{
+	color:#666;
+	background-color: #d4d4a3;
+}
